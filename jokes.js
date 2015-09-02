@@ -5,7 +5,7 @@ var walksIntoABar = function(patron) {
 };
 
 //What did the ocean say to the beach?
-var oceanSays = function(t0Beach){
+var oceanSays = function(toBeach){
 	return "nothing, it just waved";
 };
 
